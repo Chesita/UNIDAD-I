@@ -30,7 +30,11 @@ GDS0641
  
 
 
-## Dibujo del prototipo a desarrollar 
+## PARTE PRÁCTICA (60 PUNTOS) (PAREJAS)
+### Ejercicio 1: Almacenamiento de Datos
+
+https://wokwi.com/projects/422174536314009601
+
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
 ### Bocetos del Prototipo Final:
 <img src="https://github.com/user-attachments/assets/ccf72362-67e9-4d75-bde5-13c55de32d3f" width="350"/>
