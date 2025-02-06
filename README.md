@@ -8,8 +8,25 @@ Ramirez Ramirez Lizeth
 GDS0641
 
 ## REQUISITOS PARA LA EVALUACIÓN
-| Sensores y actuadores | Descripción | Cantidad | Precio total |
-|-|-|-|-|
+| Sensores y actuadores | Descripción | Cantidad |
+|-|-|-|
+| LEDs | Los LEDs (diodos emisores de luz) son dispositivos semiconductores que emiten luz eficiente y duradera en diversos colores y aplicaciones tecnológicas. | 1 |
+| HS-SR04 | El HC-SR04 es un sensor ultrasónico que mide distancias mediante emisión y recepción de ondas, utilizado en robótica, automatización y seguridad. | 1 |
+
+
+| Placa controladora | Descripción | Cantidad |
+| - | - | - |
+| Raspberry Pi | Minicomputadora versátil, ideal para proyectos educativos, IoT y servidores, con soporte para múltiples sistemas operativos y programación. |-|
+| ESP32 | Microcontrolador potente con Wi-Fi y Bluetooth integrados, usado en IoT, automatización, control remoto y aplicaciones de bajo consumo energético. |-|
+
+
+|Software||
+| - | - |
+| THONNY | Entorno de desarrollo ligero para Python, ideal para principiantes y educación, con depuración sencilla y soporte para MicroPython y Raspberry Pi. |
+| MYCROPYTHON | Versión optimizada de Python para microcontroladores, facilita la programación en dispositivos como ESP32 y mejora la eficiencia en IoT. |
+| Node-Red | Plataforma basada en flujo para programación visual de IoT, permitiendo conectar dispositivos, APIs y servicios web de forma sencilla. |
+
+
 |ESP32|El ESP32 es un microcontrolador de bajo costo y bajo consumo de energía que se utiliza comúnmente en proyectos de Internet de las cosas (IoT) y desarrollo de hardware.|2|$280.00|
 |Cables Dupont|Los cables Dupont son un tipo de cable utilizado comúnmente en electrónica y robótica para conectar componentes y dispositivos. Estos cables suelen tener conectores de tipo macho y hembra que se acoplan fácilmente, lo que facilita la conexión y desconexión de componentes en prototipos y proyectos.|Muchos|$100.00|
 |Tira leds|Una tira de LEDs es una cinta flexible con diodos emisores de luz, ideal para iluminación decorativa, funcional y personalizada.|99 leds|$100.00|
