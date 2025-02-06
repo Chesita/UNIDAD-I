@@ -16,43 +16,19 @@ GDS0641
 
 | Placa controladora | Descripción | Cantidad |
 | - | - | - |
-| Raspberry Pi | Minicomputadora versátil, ideal para proyectos educativos, IoT y servidores, con soporte para múltiples sistemas operativos y programación. |-|
-| ESP32 | Microcontrolador potente con Wi-Fi y Bluetooth integrados, usado en IoT, automatización, control remoto y aplicaciones de bajo consumo energético. |-|
+| Raspberry Pi | Minicomputadora versátil, ideal para proyectos educativos, IoT y servidores, con soporte para múltiples sistemas operativos y programación. | 1 |
+| ESP32 | Microcontrolador potente con Wi-Fi y Bluetooth integrados, usado en IoT, automatización, control remoto y aplicaciones de bajo consumo energético. | 1 |
 
 
-|Software||
+| Software utilizado | Descripción |
 | - | - |
 | THONNY | Entorno de desarrollo ligero para Python, ideal para principiantes y educación, con depuración sencilla y soporte para MicroPython y Raspberry Pi. |
 | MYCROPYTHON | Versión optimizada de Python para microcontroladores, facilita la programación en dispositivos como ESP32 y mejora la eficiencia en IoT. |
 | Node-Red | Plataforma basada en flujo para programación visual de IoT, permitiendo conectar dispositivos, APIs y servicios web de forma sencilla. |
 
 
-|ESP32|El ESP32 es un microcontrolador de bajo costo y bajo consumo de energía que se utiliza comúnmente en proyectos de Internet de las cosas (IoT) y desarrollo de hardware.|2|$280.00|
-|Cables Dupont|Los cables Dupont son un tipo de cable utilizado comúnmente en electrónica y robótica para conectar componentes y dispositivos. Estos cables suelen tener conectores de tipo macho y hembra que se acoplan fácilmente, lo que facilita la conexión y desconexión de componentes en prototipos y proyectos.|Muchos|$100.00|
-|Tira leds|Una tira de LEDs es una cinta flexible con diodos emisores de luz, ideal para iluminación decorativa, funcional y personalizada.|99 leds|$100.00|
-|Servomotor |Es un tipo de motor eléctrico que se utiliza para controlar con precisión la posición, la velocidad y la aceleración de un sistema mecánico.  | 5 | $250.00|
-|Protoboard |Es una herramienta simple que se usa en proyectos de robótica que permite conectar fácilmente componentes electrónicos entre sí, sin necesidad de realizar una soldadura. | 3 | $105.00 |
-| Buzzer | Un zumbador (en inglés buzzer) es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo).| 2 | $20.00 |
-| Sendor de movimiento | Un sensor de presencia o sensor de movimiento es un dispositivo electrónico que pone en funcionamiento un sistema (encendido o apagado) cuando detecta movimiento en el área o ambiente en el que está instalado. | 1 | $50.00 |
-| Sensor de Temperatura  | Un sensor de temperatura mide cambios térmicos, convirtiéndolos en señales eléctricas, para monitorear y controlar procesos en diversos sistemas.  | 1 | $30.00 |
-| Botones | Los botones son interruptores simples utilizados para activar o desactivar circuitos, permitiendo control manual en dispositivos electrónicos o mecánicos.| 3 | $15.00 |
-| Palitos de madera | Los palitos de madera los usamos para hacer las estructuras de los cuerpor de los reyes magos | Muchos | $30.00 |
-| Tela Fieltro | El fieltro es una tela flexible y suave, ideal para forrar figuras de cartón como el ciervo, proporcionando acabado elegante. | 1 m  | $30.00 | 
-| Escarcha | La escarcha es un material decorativo brillante que oculta cables, ofreciendo un acabado estético en proyectos creativos o festivos. | 1 m | $20.00 | 
-| Cartón | El cartón es un material rígido y liviano, ideal para construir la estructura del ciervo por su facilidad de manipulación. | 1.5 m^2 | $5.00 |
-| cartulina (1), esferas(15), pompones(12), listón(1), escarcha(1), estrella(1) | Un arbolito de Navidad puede fabricarse con materiales reciclados como cartón o madera, diseñado para sostener luces LED decorativas | Estanbre,  | $30.00 | 
-| Papel lustre | El papel lustre es un material brillante y colorido, ideal para forrar regalos, decoraciones artesanales y proyectos escolares creativos. | 3 pliegos | $12.00 |
-| kola loka, resistol liquido, resistol de barra, silicon de pistola, aguja y cobre | Los usamos para pegar/unir los  materiales | Varios | $100.00 | 
-| Papel lustre dorado | Forrar la base de madera con la que sostienen los prototipos | .75 | $12.00 |
-| Madera | madera que servirá para tener una base donde se sontendrán los componentes | 50*40 | $80.00 |
+ 
 
-
-## Software utilizado 
-| Nombre de Software | Versión | Tipo |
-|-|-|-|
-| Arduino | Reciente | Editor |
-|Thonny| Reciente | Editor |
-| Node red | Reciente | Conexión WiFi |
 
 ## Dibujo del prototipo a desarrollar 
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
