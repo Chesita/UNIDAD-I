@@ -3,7 +3,7 @@
 ### UNIDAD: I. Adquisición y Procesamiento de Datos
 
 ### ALUMNA
-Ramirez Ramirez Lizeth\n
+Ramirez Ramirez Lizeth
 1223100436
 GDS0641
 
