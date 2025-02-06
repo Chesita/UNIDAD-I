@@ -34,12 +34,42 @@ GDS0641
 ### Ejercicio 1: Almacenamiento de Datos
 
 https://wokwi.com/projects/422174536314009601
+![Imagen de WhatsApp 2025-02-06 a las 15 19 27_e9dc3c07](https://github.com/user-attachments/assets/6b83d7d7-17a3-4b31-81fe-209721fe23e8)
+
+### Ejercicio 2: Control de Actuadores
+No realizado
+
+## VÍDEOS DEMOSTRATIVOS
+
+
+
+
+
+
+## PARTE TEÓRICA
+### Basada en NetAcad Python Fundamentals 2
+
+![Imagen de WhatsApp 2025-02-06 a las 15 35 38_8cb53118](https://github.com/user-attachments/assets/a8e0f4aa-cad2-4dde-8142-82f0008bb9ef)
+![Imagen de WhatsApp 2025-02-06 a las 15 35 17_c74fea0e](https://github.com/user-attachments/assets/38eb9bf2-f7d1-4464-9fac-e56b7516e9da)
+![Imagen de WhatsApp 2025-02-06 a las 15 34 48_b042a50a](https://github.com/user-attachments/assets/11954ce2-4873-47a6-beb4-efddcb5ed2f6)
+![Imagen de WhatsApp 2025-02-06 a las 15 34 21_d838f3ba](https://github.com/user-attachments/assets/c2423850-241e-4643-b94e-267eeb2aafbd)
+![Imagen de WhatsApp 2025-02-06 a las 15 33 50_10fbc4aa](https://github.com/user-attachments/assets/f8c4d524-0aea-40f3-a37d-3deb46614e24)
+
+
+
+
+
+
+
+
 
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
 ### Bocetos del Prototipo Final:
-<img src="https://github.com/user-attachments/assets/ccf72362-67e9-4d75-bde5-13c55de32d3f" width="350"/>
+<img src="https://github.com/user-attachments/assets/6713b63c-9a85-4676-99de-6350c669ac90" width="650"/>
 
-<img src="https://github.com/user-attachments/assets/e64af4a6-a20f-463f-9495-594d524bdf76" width="350"/>
+<img src="https://github.com/user-attachments/assets/6713b63c-9a85-4676-99de-6350c669ac90" width="850"/>
+
+<img src="https://github.com/user-attachments/assets/6713b63c-9a85-4676-99de-6350c669ac90" width="650"/>
 
 ## Ímagenes del proceso
 <img src="https://github.com/user-attachments/assets/ce04e2cb-3412-446d-91c8-ff0aeedf7ffc" width="350"/>
