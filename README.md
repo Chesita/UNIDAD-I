@@ -7,14 +7,8 @@ Ramirez Ramirez Lizeth
 1223100436
 GDS0641
 
-
-
-
-## Nombre del personaje
-# ProtoServo
-
-## Materiales utilizados
-| Nombre del componente | Descripción | Cantidad | Precio total |
+## REQUISITOS PARA LA EVALUACIÓN
+| Sensores y actuadores | Descripción | Cantidad | Precio total |
 |-|-|-|-|
 |ESP32|El ESP32 es un microcontrolador de bajo costo y bajo consumo de energía que se utiliza comúnmente en proyectos de Internet de las cosas (IoT) y desarrollo de hardware.|2|$280.00|
 |Cables Dupont|Los cables Dupont son un tipo de cable utilizado comúnmente en electrónica y robótica para conectar componentes y dispositivos. Estos cables suelen tener conectores de tipo macho y hembra que se acoplan fácilmente, lo que facilita la conexión y desconexión de componentes en prototipos y proyectos.|Muchos|$100.00|
