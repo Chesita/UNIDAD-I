@@ -31,22 +31,46 @@
 
 
 ## PARTE PRÁCTICA (60 PUNTOS) (PAREJAS)
-### Ejercicio 1: Almacenamiento de Datos
+## Ejercicio 1: Almacenamiento de Datos
 
 https://wokwi.com/projects/422174536314009601
+
+### Código en Thonny
+
 ![Imagen de WhatsApp 2025-02-06 a las 15 19 27_e9dc3c07](https://github.com/user-attachments/assets/6b83d7d7-17a3-4b31-81fe-209721fe23e8)
+
+
 
 ### Ejercicio 2: Control de Actuadores
 No realizado
 
-## VÍDEOS DEMOSTRATIVOS
+
+
+# Parte Práctica (INDIVIDUAL)
+## CRUD en PostgreSQL
+## Instalaciones y Configuraciones Básicas
+
+## Led y Bóton en Rapberry Pi
+## Conexión MQTT en Node-RED
 
 
 
+## Parte Practica Soldadura
+
+### Placa Fenólica
+![image](https://github.com/user-attachments/assets/a2b8e07e-31fc-460d-91dd-3ccfe90c6d8c)
+
+![image](https://github.com/user-attachments/assets/348747ac-f229-4c44-aed0-27941b5d5405)
 
 
+### Figura 2D soldada
 
-## PARTE TEÓRICA
+
+# PARTE TEÓRICA
+
+### Quiz presencial
+![image](https://github.com/user-attachments/assets/6b5552b0-a489-41a4-8a86-ab8ca45d5554)
+
 ### Basada en NetAcad Python Fundamentals 2
 
 ![Imagen de WhatsApp 2025-02-06 a las 15 35 38_8cb53118](https://github.com/user-attachments/assets/a8e0f4aa-cad2-4dde-8142-82f0008bb9ef)
