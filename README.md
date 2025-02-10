@@ -41,6 +41,7 @@ https://wokwi.com/projects/422174536314009601
 
 
 
+
 ### Ejercicio 2: Control de Actuadores
 No realizado
 
@@ -48,10 +49,19 @@ No realizado
 
 # Parte Práctica (INDIVIDUAL)
 ## CRUD en PostgreSQL
+https://drive.google.com/file/d/12s0O2Fb7ukIiFOn74cMk9PzEJOuPmrtC/view?usp=sharing
+
 ## Instalaciones y Configuraciones Básicas
+https://drive.google.com/file/d/1E8h1UoRD2F9osVOtHTtfqQiCBscFuaMM/view?usp=sharing
 
 ## Led y Bóton en Rapberry Pi
+https://drive.google.com/file/d/1Uaw7yZOO1TeM-5SYhrVgrIEQN9BAS4Rm/view?usp=sharing
+
 ## Conexión MQTT en Node-RED
+
+https://drive.google.com/file/d/1uFa4xnLep705u_uyn1f3Y7NCeErOditg/view?usp=sharing
+https://drive.google.com/file/d/1nTSvjWG1b7ONosac_MSHMJRcneax8Buh/view?usp=sharing
+
 
 
 
@@ -64,6 +74,7 @@ No realizado
 
 
 ### Figura 2D soldada
+![Imagen de WhatsApp 2025-02-10 a las 15 26 30_b5ef06d4](https://github.com/user-attachments/assets/0ff4a758-12ff-42c6-a2e5-11b6655644e0)
 
 
 # PARTE TEÓRICA
