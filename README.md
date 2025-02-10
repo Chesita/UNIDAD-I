@@ -1,11 +1,11 @@
 # UNIDAD-I
 ## INSTRUMENTO DE EVALUACIÓN
-### UNIDAD: I. Adquisición y Procesamiento de Datos
+### UNIDAD I: Adquisición y Procesamiento de Datos
 
 ### ALUMNA
-Ramirez Ramirez Lizeth
-1223100436
-GDS0641
+#### -Ramirez Ramirez Lizeth
+#### -1223100436
+#### -GDS0641
 
 ## REQUISITOS PARA LA EVALUACIÓN
 | Sensores y actuadores | Descripción | Cantidad |
