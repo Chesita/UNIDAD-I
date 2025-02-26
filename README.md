@@ -48,6 +48,10 @@ https://wokwi.com/projects/423902579613685761
 Video
 https://drive.google.com/file/d/1AAn6yafy4f8N0Yu5ETRjFNkL8ESBXcUB/view?usp=sharing
 
+Código: 
+Revisar los archivos adjuntos
+LED RGB Y BOTON
+
 
 
 
