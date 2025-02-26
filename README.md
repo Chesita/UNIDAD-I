@@ -43,7 +43,11 @@ https://wokwi.com/projects/422174536314009601
 
 
 ### Ejercicio 2: Control de Actuadores
-No realizado
+https://wokwi.com/projects/423902579613685761
+
+Video
+https://drive.google.com/file/d/1AAn6yafy4f8N0Yu5ETRjFNkL8ESBXcUB/view?usp=sharing
+
 
 
 
